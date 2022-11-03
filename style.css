@@ -42,7 +42,7 @@ body{
     color: #5166d5;
     height: 100px;
     line-height: 100px;
-    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.5), inset -5px -5px 10px rgba(0, 0, 0, 0.3);
+    box-shadow: inset 5px 5px 10px rgba(0, 0, 0, 0.3), inset -5px -5px 10px rgba(0, 0, 0, 0.3);
     border-radius: 10px;
     margin-bottom: 12px;
     padding: 0 20px;
@@ -67,7 +67,7 @@ body{
     font-size: 1.8em;
     color: rgb(0, 0, 0);
     border: 2px solid #edf1f4;
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.1), -5px -5px 10px rgba(0, 0, 0, 0.2);
     border-radius: 10px;
 }
 .dark .calculator .buttons span{
