@@ -20,4 +20,3 @@ for (let i = 0; i < btn.length; i++) {
         }
 }})
 }
-value.innerHTML= value.innerHTML.slice(0, -1);
